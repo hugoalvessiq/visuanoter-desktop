@@ -1,0 +1,30 @@
+{
+  "pt": [
+    "Dica: Use tags coloridas para categorizar suas notas por assunto.",
+    "Dica: Fixe notas importantes com o ícone 📌 para que fiquem sempre no topo.",
+    "Dica: Você pode arquivar notas que não usa mais para manter sua tela limpa.",
+    "Dica: Configure o backup automático para nunca perder seus dados.",
+    "Dica: Use a busca para encontrar rapidamente palavras dentro das suas notas.",
+    "Dica: O tema 'System' segue automaticamente o modo claro/escuro do seu PC.",
+    "Dica: Notas apagadas vão para a Lixeira e podem ser recuperadas nas Configurações.",
+    "Dica: Você pode exportar suas notas em TXT para ler em qualquer lugar.",
+    "Dica: Aperte Ctrl + N para criar uma nova nota rapidamente.",
+    "Dica: Use Ctrl + , para abrir as configurações e o backup.",
+    "Dica: Pressione Esc para fechar qualquer janela aberta.",
+    "Dica: Ctrl + F coloca o foco direto na barra de pesquisa."
+  ],
+  "en": [
+    "Tip: Use colored tags to categorize your notes by subject.",
+    "Tip: Pin important notes with the 📌 icon to keep them always at the top.",
+    "Tip: You can archive notes you no longer use to keep your screen clean.",
+    "Tip: Set up auto-backup to never lose your data.",
+    "Tip: Use the search bar to quickly find words inside your notes.",
+    "Tip: The 'System' theme automatically follows your PC's light/dark mode.",
+    "Tip: Deleted notes go to the Trash and can be recovered in Settings.",
+    "Tip: You can export your notes to TXT to read them anywhere.",
+    "Tip: Press Ctrl + N to quickly create a new note.",
+    "Tip: Use Ctrl + , to open settings and backup.",
+    "Tip: Press Esc to close any open window.",
+    "Tip: Ctrl + F puts the focus directly on the search bar."
+  ]
+}

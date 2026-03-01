@@ -1,0 +1,56 @@
+{
+  "pt": [
+    {
+      "id": "intro",
+      "title": "Início Rápido",
+      "content": "<p>Bem-vindo ao <strong>VisuaNoter</strong>! Este é um aplicativo focado em anotações rápidas e organização visual.</p><p>Use a barra lateral para navegar, criar notas ou acessar configurações. Suas notas são salvas automaticamente.</p>"
+    },
+    {
+      "id": "shortcuts",
+      "title": "Atalhos de Teclado",
+      "content": "<ul class='list-disc pl-5 space-y-1'><li><strong>Ctrl + N</strong>: Criar Nova Nota</li><li><strong>Ctrl + S</strong>: Salvar (no editor)</li><li><strong>Ctrl + F</strong>: Pesquisar notas</li><li><strong>Ctrl + ,</strong>: Abrir Configurações</li><li><strong>Esc</strong>: Fechar janelas</li></ul>"
+    },
+    {
+      "id": "colors",
+      "title": "Sistema de Cores e Tags",
+      "content": "<p>Organize sua vida visualmente. Ao criar uma nota, você pode escolher uma cor que representa a categoria (ex: Vermelho para Urgente, Azul para Trabalho).</p><p>As <strong>Tags</strong> funcionam como filtros. Clique em uma tag no card da nota para filtrar instantaneamente todas as notas com aquele mesmo assunto.</p>"
+    },
+    {
+      "id": "backup",
+      "title": "Backup e Segurança",
+      "content": "<p>Seus dados são importantes. O VisuaNoter possui um sistema de backup automático.</p><p>Vá em <strong>Configurações</strong> > <strong>Backup</strong> e escolha uma pasta segura no seu computador. O app salvará cópias das suas notas a cada intervalo de tempo definido.</p>"
+    },
+    {
+      "id": "trash",
+      "title": "Lixeira e Exclusão",
+      "content": "<p>Apagou sem querer? Não se preocupe.</p><p>Notas apagadas vão para a <strong>Lixeira</strong> (acessível nas Configurações). Lá você pode restaurá-las ou excluí-las permanentemente.</p>"
+    }
+  ],
+  "en": [
+    {
+      "id": "intro",
+      "title": "Quick Start",
+      "content": "<p>Welcome to <strong>VisuaNoter</strong>! An app focused on quick notes and visual organization.</p>"
+    },
+    {
+      "id": "shortcuts",
+      "title": "Keyboard Shortcuts",
+      "content": "<ul class='list-disc pl-5 space-y-1'><li><strong>Ctrl + N</strong>: New Note</li><li><strong>Ctrl + S</strong>: Save</li><li><strong>Ctrl + F</strong>: Search</li><li><strong>Ctrl + ,</strong>: Settings</li></ul>"
+    },
+    {
+      "id": "colors",
+      "title": "Colors & Tags",
+      "content": "<p>Organize visually. Choose colors to represent categories. Click on tags to filter views.</p>"
+    },
+    {
+      "id": "backup",
+      "title": "Backup & Safety",
+      "content": "<p>Go to Settings to configure auto-backup folders.</p>"
+    },
+    {
+      "id": "trash",
+      "title": "Trash Can",
+      "content": "<p>Deleted notes go to the Trash inside Settings. You can restore them from there.</p>"
+    }
+  ]
+}
